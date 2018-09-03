@@ -5,8 +5,10 @@
 /tmp
 /out-tsc
 
+
 # dependencies
 /node_modules
+package-lock.json
 
 # IDEs and editors
 /.idea
@@ -33,7 +35,7 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+
 # System Files
 .DS_Store
 Thumbs.db
-package-lock.json
